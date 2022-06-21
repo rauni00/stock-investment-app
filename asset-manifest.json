@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stock-investment-app/static/css/main.5f023ce5.css",
+    "main.js": "/stock-investment-app/static/js/main.3e706e6c.js",
+    "static/js/787.91a32e6f.chunk.js": "/stock-investment-app/static/js/787.91a32e6f.chunk.js",
+    "index.html": "/stock-investment-app/index.html",
+    "main.5f023ce5.css.map": "/stock-investment-app/static/css/main.5f023ce5.css.map",
+    "main.3e706e6c.js.map": "/stock-investment-app/static/js/main.3e706e6c.js.map",
+    "787.91a32e6f.chunk.js.map": "/stock-investment-app/static/js/787.91a32e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f023ce5.css",
+    "static/js/main.3e706e6c.js"
+  ]
+}
